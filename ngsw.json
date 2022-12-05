@@ -1,0 +1,103 @@
+{
+  "configVersion": 1,
+  "timestamp": 1670236438874,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/584.2a012b7f309a095c.js",
+        "/842.3cc57eb38d3c823c.js",
+        "/845.57f7f9a855a4a224.js",
+        "/942.e26e3f0cb059552e.js",
+        "/OneSignalSDKWorker.js",
+        "/common.3114e1ba03c09de5.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.c0e9b1fc5391dc6d.js",
+        "/manifest.webmanifest",
+        "/polyfills.0f54d434e4047244.js",
+        "/runtime.07f1c328a8e5c57c.js",
+        "/styles.3d32c6f9b362985f.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/comedero-mascotas.png",
+        "/assets/comedero-para-mascotas.png",
+        "/assets/comedero-profile.png",
+        "/assets/dog cat.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/informacion.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/584.2a012b7f309a095c.js": "733987207251d9bfc7edf8eb4d6eaa14eb6ae74c",
+    "/842.3cc57eb38d3c823c.js": "a688e54cca6134d524a7693854d39137fa7c6960",
+    "/845.57f7f9a855a4a224.js": "f75087d950bf9c0a40133d24829c076de0a7579e",
+    "/942.e26e3f0cb059552e.js": "c62f8835a0cdf7440adc5d980a386e6744e5ffc2",
+    "/OneSignalSDKWorker.js": "2a04201028527d0db7532997f5c51de0291d5b6f",
+    "/assets/comedero-mascotas.png": "88a758f9ef1b824970b16b32b36d099638430555",
+    "/assets/comedero-para-mascotas.png": "8bdfe7164c025f9cf3cf2614c72588e4a2f707ec",
+    "/assets/comedero-profile.png": "497cba226c08f99678bfc2d227233c515783a856",
+    "/assets/dog cat.png": "024d21bfbcf8060773fee99d7c943ca5dbf3f7c3",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/informacion.png": "c3ecbb07e8d0f7902d67c48d7cc7e031c1db62f2",
+    "/common.3114e1ba03c09de5.js": "cbd036441944c86342e97776ca6134782da001e6",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "508ea0e8dd17f862ecc671d5e3ee583f02fa549d",
+    "/main.c0e9b1fc5391dc6d.js": "524471d5b75bd9502b5b63090d169ef58c61e547",
+    "/manifest.webmanifest": "5554424ec4db936fd9d6aef4c628f31f362fbe56",
+    "/polyfills.0f54d434e4047244.js": "b1ddd63b6dbc3df4110ea53367d35b9030a8434f",
+    "/runtime.07f1c328a8e5c57c.js": "5afe690642c8ac6e74a8753ebaeec49acf0e6eb3",
+    "/styles.3d32c6f9b362985f.css": "97fb8f062c8f08072e8d5e85d6f53b1e9757333a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
